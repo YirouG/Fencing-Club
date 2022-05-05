@@ -1,0 +1,59 @@
+.navbar{
+    background-color: #1f2537;
+    position:sticky;
+    top:0;
+    display:flex;
+    width:100%;
+    align-items:center;
+    justify-content: space-between;
+
+
+}
+
+.navbar img{
+    justify-content: left;
+}
+
+.navbar li{
+    display: inline;
+    align-items:center;
+    justify-content: space-between;
+    
+}
+
+.container{
+    width:100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.about{
+    display:flex;
+    background-color:#1f2537;
+}
+
+.about img{
+
+}
+
+.c1{color:white}
+
+.coaches{
+    background-color: white;
+    
+}
+
+.meet_coach{
+    display:block;
+}
+
+.coach_photos{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.coach_photos img{
+    border: 3px solid #3882f6;
+    border-radius: 15%;
+}
